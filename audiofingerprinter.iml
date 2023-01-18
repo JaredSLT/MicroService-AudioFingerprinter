@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_17">
+    <output url="file://$MODULE_DIR$/target/classes" />
+    <output-test url="file://$MODULE_DIR$/target/test-classes" />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src/main/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Maven: io.activej:activej-launchers-http:5.2" level="project" />
+    <orderEntry type="library" name="Maven: io.activej:activej-http:5.2" level="project" />
+    <orderEntry type="library" name="Maven: io.activej:activej-net:5.2" level="project" />
+    <orderEntry type="library" name="Maven: io.activej:activej-promise:5.2" level="project" />
+    <orderEntry type="library" name="Maven: io.activej:activej-eventloop:5.2" level="project" />
+    <orderEntry type="library" name="Maven: io.activej:activej-bytebuf:5.2" level="project" />
+    <orderEntry type="library" name="Maven: io.activej:activej-csp:5.2" level="project" />
+    <orderEntry type="library" name="Maven: io.activej:activej-launchers-common:5.2" level="project" />
+    <orderEntry type="library" name="Maven: io.activej:activej-boot:5.2" level="project" />
+    <orderEntry type="library" name="Maven: io.activej:activej-servicegraph:5.2" level="project" />
+    <orderEntry type="library" name="Maven: io.activej:activej-launcher:5.2" level="project" />
+    <orderEntry type="library" name="Maven: io.activej:activej-inject:5.2" level="project" />
+    <orderEntry type="library" name="Maven: io.activej:activej-workers:5.2" level="project" />
+    <orderEntry type="library" name="Maven: io.activej:activej-common:5.2" level="project" />
+    <orderEntry type="library" name="Maven: io.activej:activej-types:5.2" level="project" />
+    <orderEntry type="library" name="Maven: io.activej:activej-jmxapi:5.2" level="project" />
+    <orderEntry type="library" name="Maven: io.activej:activej-config:5.2" level="project" />
+    <orderEntry type="library" name="Maven: io.activej:activej-jmx:5.2" level="project" />
+    <orderEntry type="library" name="Maven: io.activej:activej-jmx-stats:5.2" level="project" />
+    <orderEntry type="library" name="Maven: io.activej:activej-triggers:5.2" level="project" />
+    <orderEntry type="library" name="Maven: org.jetbrains:annotations:22.0.0" level="project" />
+    <orderEntry type="library" name="Maven: org.slf4j:slf4j-api:1.7.32" level="project" />
+    <orderEntry type="library" name="Maven: io.activej:activej-specializer:5.2" level="project" />
+    <orderEntry type="library" name="Maven: org.ow2.asm:asm:9.2" level="project" />
+    <orderEntry type="library" name="Maven: org.ow2.asm:asm-commons:9.2" level="project" />
+    <orderEntry type="library" name="Maven: org.ow2.asm:asm-tree:9.2" level="project" />
+    <orderEntry type="library" name="Maven: org.ow2.asm:asm-analysis:9.2" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.kafka:kafka-clients:3.1.0" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: com.github.luben:zstd-jni:1.5.0-4" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: org.lz4:lz4-java:1.8.0" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: org.xerial.snappy:snappy-java:1.1.8.4" level="project" />
+    <orderEntry type="module" module-name="fpcalc" />
+    <orderEntry type="library" name="Maven: info.picocli:picocli:4.6.3" level="project" />
+  </component>
+</module>

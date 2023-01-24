@@ -13,12 +13,12 @@ import io.activej.inject.module.Modules;
 import io.activej.launchers.http.MultithreadedHttpServerLauncher;
 import io.activej.worker.annotation.Worker;
 
-public class AudioFingerprinter extends MultithreadedHttpServerLauncher {
+public class Main extends MultithreadedHttpServerLauncher {
     public static final Multibinder<RoutingServlet> SERVLET_MULTIBINDER =
             Multibinders.ofBinaryOperator((servlet1, servlet2) -> servlet1.merge(servlet2));
 
     public static void main(String[] args) throws Exception {
-        new AudioFingerprinter().launch(args);
+        new Main().launch(args);
     }
 
     @Override
